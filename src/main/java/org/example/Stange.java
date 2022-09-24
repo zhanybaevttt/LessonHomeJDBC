@@ -1,5 +1,7 @@
 package org.example;
 
+import java.sql.RowId;
+
 public class Stange {
     private int id;
     private String name;
